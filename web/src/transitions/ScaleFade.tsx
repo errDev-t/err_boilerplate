@@ -6,7 +6,6 @@ const ScaleFade: React.FC<{ visible: boolean; children: React.ReactNode; onExitC
     children,
     onExitComplete,
 }) => {
-    console.log(visible)
     return (
         <>
             <AnimatePresence onExitComplete={onExitComplete}>

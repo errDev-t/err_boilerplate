@@ -16,8 +16,8 @@ shared_scripts {
   '@ox_lib/init.lua',
 }
 
-ui_page 'http://localhost:3000/' -- (for local dev)
--- ui_page 'web/build/index.html'
+-- ui_page 'http://localhost:3000/' -- (for local dev)
+ui_page 'web/build/index.html'
 
 files {
   'web/build/index.html',
