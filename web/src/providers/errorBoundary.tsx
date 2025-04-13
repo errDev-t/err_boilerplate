@@ -1,4 +1,5 @@
 // yoinked from https://github.com/overextended/ox_lib/blob/master/web/src/providers/errorBoundary.tsx
+import { fetchNui } from '@/utils/fetchNui';
 import { Component, ReactNode, ErrorInfo } from 'react';
 
 class ErrorBoundary extends Component<{ children: ReactNode }, { hasError: boolean }> {
@@ -14,6 +15,8 @@ class ErrorBoundary extends Component<{ children: ReactNode }, { hasError: boole
     componentDidCatch(error: Error, info: ErrorInfo) {
         console.error(error, info)
         this.setState({ hasError: false });
+        // Will hide frame as soon as we encouter NUI error
+        fetchNui('hideFrame')
     }
 
     render() {
