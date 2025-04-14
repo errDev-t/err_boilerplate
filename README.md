@@ -3,7 +3,6 @@
 A modern, feature-rich React boilerplate for FiveM NUI development, designed with TypeScript, TailwindCSS, and Shadcn UI for creating beautiful and performant user interfaces.
 
 ![](https://img.shields.io/github/downloads/errDev-t/err_boilerplate/total?logo=github)
-![](https://img.shields.io/github/downloads/errDev-t/err_boilerplate/latest/total?logo=github)
 ![](https://img.shields.io/github/contributors/errDev-t/err_boilerplate?logo=github)
 ![](https://img.shields.io/github/v/release/errDev-t/err_boilerplate?logo=github)
 
