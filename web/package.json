@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "start": "vite",
+    "dev": "vite",
     "start:game": "vite build --watch",
     "build": "tsc && vite build",
     "preview": "vite preview"
