@@ -10,11 +10,6 @@ A modern, feature-rich React boilerplate for FiveM NUI development, designed wit
 
 https://docs.err.cool/boilerplate
 
-## 💾 Download
-
-https://github.com/errDev-t/err_boilerplate/releases/latest/download/err_boilerplate.zip
-
-
 ## 🙏 Acknowledgments
 
 Some code in this project is inspired by or adapted from [Overextended](https://github.com/overextended). We are grateful for their contributions to the FiveM community.
