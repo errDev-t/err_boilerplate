@@ -6,6 +6,11 @@ A modern, feature-rich React boilerplate for FiveM NUI development, designed wit
 ![](https://img.shields.io/github/contributors/errDev-t/err_boilerplate?logo=github)
 ![](https://img.shields.io/github/v/release/errDev-t/err_boilerplate?logo=github)
 
+
+## Preview
+
+[![Watch the preview](https://imgur.com/a/V0wUWfO)](https://streamable.com/e0llb3)
+
 ## 📚 Documentation
 
 https://docs.err.cool/boilerplate
