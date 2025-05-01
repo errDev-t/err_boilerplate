@@ -9,7 +9,7 @@ A modern, feature-rich React boilerplate for FiveM NUI development, designed wit
 
 ## Preview
 
-[![Watch the preview](https://imgur.com/a/V0wUWfO)](https://streamable.com/e0llb3)
+[![Watch the preview](https://imgur.com/a/V0wUWfO.png)](https://streamable.com/e0llb3)
 
 ## 📚 Documentation
 
