@@ -13,7 +13,7 @@ https://streamable.com/e0llb3
 
 ## 📚 Documentation
 
-https://docs.err.cool/boilerplate
+https://docs.err-scripts.xyz/boilerplate
 
 ## 🙏 Acknowledgments
 
